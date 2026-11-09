@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am a first-year Computer Engineering Student at the University of Waterloo.
+
+I like to program software.
+
 <!--
 **jsjiang2008/jsjiang2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
