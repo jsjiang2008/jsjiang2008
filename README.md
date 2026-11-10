@@ -1,8 +1,23 @@
-## Hi there 👋
+# Hi there 👋
 
-I am a first-year Computer Engineering Student at the University of Waterloo.
+I'm a first-year Computer Engineering student passionate about building software, exploring new technologies, and solving challenging problems.
 
-I like to program software.
+## 🛠️ Tech Stack
+
+![Languages](https://skillicons.dev/icons?i=python,cpp,java,ts,js)
+
+**Frameworks & Libraries**
+
+![Frameworks](https://skillicons.dev/icons?i=react,pytorch,fastapi,opencv)
+
+**Tools & Technologies**
+
+![Tools](https://skillicons.dev/icons?i=git,github,postgres,docker,linux,cmake,vscode)
+
+
+
+
+
 
 <!--
 **jsjiang2008/jsjiang2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
