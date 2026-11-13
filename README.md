@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a first-year Computer Engineering student passionate about building software, exploring new technologies, and solving challenging problems.
+I'm a first-year Computer Engineering student at the University of Waterloo who is passionate about building software, exploring new technologies, and solving challenging problems.
 
 ## 🛠️ Tech Stack
 
