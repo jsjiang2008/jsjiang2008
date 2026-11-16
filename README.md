@@ -1,6 +1,9 @@
 # Hi there 👋
 
-I'm a first-year Computer Engineering student at the University of Waterloo who is passionate about building software, exploring new technologies, and solving challenging problems.
+I'm a first-year Computer Engineering student at the University of Waterloo who is passionate about building software, exploring new technologies, and solving challenging problems. 
+
+I'm always open to new opportunities, internships, and collaborations! Feel free to reach out if you'd like to connect or discuss potential opportunities, and check out my resume learn more about my experience and skills.
+
 
 ## 📫 Connect With Me
 
